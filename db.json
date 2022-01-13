@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "this is feedback item 1 from the json backend"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "this is feedback item 2 from the json backend"
+    },
+    {
+      "rating": 8,
+      "text": "a feedbak fro postman",
+      "id": 5
+    },
+    {
+      "text": "[updated] this is a fixed feedback that should remain",
+      "rating": 7,
+      "id": 6
+    },
+    {
+      "text": "kasdkjhas  aksjdhkasd",
+      "rating": 5,
+      "id": 7
+    }
+  ]
+}
